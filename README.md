@@ -44,4 +44,5 @@ Segue o exemplo de resposta para a entrada acima:
 2 1
 
 4
+
 10
