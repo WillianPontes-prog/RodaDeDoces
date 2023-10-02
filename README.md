@@ -35,9 +35,13 @@ Marquim. Caso ambos terminem na mesma casa, é preciso que o número da casa
 seja impresso apenas uma vez.
 Segue o exemplo de resposta para a entrada acima:
 
-7 9
+7 9 
+
 5 6
+
 8 3
+
 2 1
+
 4
 10
